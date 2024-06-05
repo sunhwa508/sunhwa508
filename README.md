@@ -1,6 +1,6 @@
 ### Hi there I'm sunhwa👋
 
-<a href="https://github.com/devxb/gitanimals?contribution-view=false">
+<a href="https://velog.io/@sunhwa508">
   <img src="https://render.gitanimals.org/farms/sunhwa508"/>
 </a>
 
